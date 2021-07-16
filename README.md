@@ -17,6 +17,6 @@ Technology used:
 7) jquery
 8) Ajax
 
-Screenshots:
+
 
 
